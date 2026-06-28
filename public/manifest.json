@@ -1,0 +1,16 @@
+{
+  "short_name": "Agendamento",
+  "name": "Agendamento Online",
+  "description": "Agende seu horário de forma rápida e fácil",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#042C53",
+  "background_color": "#042C53",
+  "scope": "/",
+  "lang": "pt-BR"
+}
